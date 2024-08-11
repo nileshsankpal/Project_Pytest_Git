@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_OrangeHRM_Login.py:49 test case is started
+[32mINFO    [0m root:test_OrangeHRM_Login.py:52 test case is loging 
+[32mINFO    [0m root:test_OrangeHRM_Login.py:58 username--Admin
+[32mINFO    [0m root:test_OrangeHRM_Login.py:62 password--admin123
+[32mINFO    [0m root:test_OrangeHRM_Login.py:67 logining stauts
+[32mINFO    [0m root:test_OrangeHRM_Login.py:82 test case is fail
+[32mINFO    [0m root:test_OrangeHRM_Login.py:85 test case is completed
